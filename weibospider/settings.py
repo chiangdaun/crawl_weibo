@@ -52,9 +52,9 @@ CONCURRENT_REQUESTS_PER_IP = 100
 # CONCURRENT_REQUESTS_PER_IP = 30
 
 '''MongoDb Config'''
-MONGO_URI='202.115.161.209'
+MONGO_URI='XXXXXX'
 MONGO_DATABASE='weibo-id2'
-MONGO_PASSWORD='cs.swust'
+MONGO_PASSWORD='XXXXX'
 MONGO_NAME='root'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
